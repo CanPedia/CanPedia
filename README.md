@@ -10,7 +10,9 @@
 </p>
 
 <br/>
-[![Image](https://telegra.ph/file 4/8c7c77fc83250f4f386fd.jpg)]
+<div align="center">
+  <img src="assets/image.png" alt="Wallpaper" width="835">
+</div>
 
 <div align="center">
   <a href="https://github.com/CanPedia">
