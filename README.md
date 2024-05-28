@@ -11,7 +11,7 @@
 
 <br/>
 <div align="center">
-  <img src="/OIG (3).jpeg" alt="Wallpaper" width="835">
+  <img src="/OIG3 (3).jpeg" alt="Wallpaper" width="835">
 </div>
 
 <div align="center">
