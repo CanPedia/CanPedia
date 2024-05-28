@@ -10,9 +10,8 @@
 </p>
 
 <br/>
-<div align="center">
+[![Image](https://telegra.ph/file 4/8c7c77fc83250f4f386fd.jpg)]
 
-<img src="https://telegra.ph/file 4/8c7c77fc83250f4f386fd.jpg" /></div>
 <div align="center">
   <a href="https://github.com/CanPedia">
     <img src="https://skillicons.dev/icons?i=js,html,css,c,discord,github,ai,java,linkedin,mysql,nodejs,ps,php,pr,py,stackoverflow,twitter,vscode,codepen,wordpress" />
