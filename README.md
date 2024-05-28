@@ -6,7 +6,7 @@
 <br/>
   
 <p align="center">
-  Hanya manusia biasa yang ingin menjadi luar biasa dimana depan.
+  Hanya manusia biasa yang ingin menjadi luar biasa dimasa depan.
 </p>
 
 <br/>
